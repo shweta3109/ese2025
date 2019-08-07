@@ -4,3 +4,4 @@ May29,2019  Learned about git
 added Homework
 added filecheck.cpp
 added rootcheck.cpp
+added logfilegenerate program
