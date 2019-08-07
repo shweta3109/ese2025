@@ -5,3 +5,4 @@ added Homework
 added filecheck.cpp
 added rootcheck.cpp
 added logfilegenerate program
+added file and word check program
